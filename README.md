@@ -2,6 +2,20 @@
 
 第一阶段 MVP，基于 Tauri + React + TypeScript。
 
+## 展示图
+
+### 桌宠展开态
+
+![桌宠展开态](./docs/images/preview-widget-open.png)
+
+### 桌宠默认态
+
+![桌宠默认态](./docs/images/preview-widget-idle.png)
+
+### Dock 图标
+
+![Dock 图标](./docs/images/preview-dock-icon.png)
+
 ## 启动
 
 1. 安装依赖：`npm install`
